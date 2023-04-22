@@ -27,8 +27,14 @@ However, using two adapters is not a must, the entire thing can be powered by a 
 - Now, plug the 12V adapter to the female barrel port labelled ```12V-IN-2ND```.
 
 ### Note:
- When using a single 12V adpater to power as well as charge the batteries, do not plug the 12V adapter to the female barrel port labelled ```12V-IN-MAIN```. Use the port labelled ```12V-IN-2ND```.
+ When using a single 12V adpater to power as well as charge the batteries, do not plug the 12V adapter into the female barrel port labelled ```12V-IN-MAIN```. Use the port labelled ```12V-IN-2ND```. Also use an adapter rated at-least 1.5 amps.
  
 ## CHARGING SYSTEM:
 The batteries are charged by this XL4015 CC/CV 5A buck converter module, whose voltage and current must be set to 8.35 volts and 1.4 amps respectively.
-The XL4015 module is powered by a 12V 2A adapter. If your 12V adapter is rated below 2A then simply lower the charging current on the XL4015 buck converter module. 
+The XL4015 module is powered by a 12V 2A adapter. If your 12V adapter is rated below 2A then lower the charging current on the buck converter to an appropriate level. Below are some reccommended charging current values in relation to the adapter's current rating:
+
+| Adapter's Current Rating(A) | Charging Current(A) |
+| :---: | :---: |
+| 1 | 0.7 - 0.8 |
+| 1.5 | 1 - 1.2 |
+| 2 | 1.2 - 1.6 |
