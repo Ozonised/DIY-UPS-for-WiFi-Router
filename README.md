@@ -17,7 +17,7 @@ Here is a breif table containing the main specs of the UPS:
 The battery is a 2s 2p lithium-ion pack with a nominal voltage of 7.4 volts and a capacity of, 4000mAh approximately.
 The batteries are managed by this HW-882 3 A BMS for 2s lithium-ion battery pack.
 
-# POWER & CHARGING SYSTEM
+# POWER & CHARGING
 
 ## POWER:
 Unlike many commercial devices, this DIY UPS utilises 2 * 12 volt adapter. One for powering the Router and ONU while the other charges the batteries.
@@ -29,6 +29,6 @@ However, using two adapters is not a must, the entire thing can be powered by a 
 ### Note:
  When using a single 12V adpater to power as well as charge the batteries, do not plug the 12V adapter to the female barrel port labelled ```12V-IN-MAIN```. Use the port labelled ```12V-IN-2ND```.
  
-## CHARGER:
+## CHARGING SYSTEM:
 The batteries are charged by this XL4015 CC/CV 5A buck converter module, whose voltage and current must be set to 8.35 volts and 1.4 amps respectively.
 The XL4015 module is powered by a 12V 2A adapter. If your 12V adapter is rated below 2A then simply lower the charging current on the XL4015 buck converter module. 
