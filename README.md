@@ -38,3 +38,36 @@ The XL4015 module is powered by a 12V 2A adapter. If your 12V adapter is rated b
 | 1 | 0.7 - 0.8 |
 | 1.5 | 1 - 1.2 |
 | 2 | 1.2 - 1.6 |
+
+# PART LIST
+
+| Part | Quantity |
+| :---: | :---: |
+| 0.1uF Cap | 2 |
+| 220uF Cap | 1 |
+| 470uF Cap | 1 |
+| Female Barrel Jack | 4 |
+| Male Barrel Jack | 4 |
+| Screw Terminal_01x02 | 2 |
+| XL6009 module | 1 |
+| XL4015 CC/CV module | 1 |
+| 7809 | 1 |
+| Heat sink | 1 |
+| SPST_Switch | 1 |
+| HW-882 3 A BMS | 1 |
+| 18650 2000mAH lion cell | 4 |
+| 12 2A adapter | 1 |
+| 12 1A adapter | 1 |
+
+In additon to the items mentioned above, you will also need some other miscellaneous stuff like wires, etc.
+
+# WIRING
+Soldering the components on the PCB is a straight forward as everything is labelled. This is why I decided to skip the soldering part and focus of the wiring of the battery pack and XL4015 to the PCB.
+## BATTERY PACK
+
+## BATTERY PACK TO PCB
+Below are the steps to wire the battery pack and the XL4015 to the main PCB:
+- The input from the battery connects to the srew terminal labelled ```BATT-IN```. 
+- The input wires of the XL4015 plugs into the screw terminal labelled ```TO-BATT```. 
+### Note:
+The positive side is marked by  ```+``` symbol beside screw terminal on the PCB.
