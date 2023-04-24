@@ -30,6 +30,9 @@ Soldering the components on the PCB is a straight forward as everything is label
 
 ## WIRING OF THE BATTERY PACK
 
+### Note:
+Set the voltage and current on the XL4015 buck converter to 8.35 volts and 1.35 amps respectively before connecting it to the battery.
+
 ## WIRING BATTERY PACK TO THE PCB
 Below are the steps to wire the battery pack and the XL4015 to the main PCB:
 - The input from the battery connects to the srew terminal labelled ```BATT-IN```. 
