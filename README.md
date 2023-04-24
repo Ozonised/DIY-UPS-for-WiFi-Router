@@ -36,7 +36,7 @@ Set the voltage and current on the XL4015 buck converter to 8.35 volts and 1.35 
 ## WIRING BATTERY PACK TO THE PCB
 Below are the steps to wire the battery pack and the XL4015 to the main PCB:
 - The input from the battery connects to the srew terminal labelled ```BATT-IN```. 
-- The input wires of the XL4015 plugs into the screw terminal labelled ```TO-BATT```. 
+- The input wires of the XL4015 plugs into the screw terminal labelled ```TO BATT```. 
 ### Note:
 The positive side is marked by  ```+``` symbol beside screw terminal on the PCB.
 
