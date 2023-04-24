@@ -29,7 +29,7 @@ The batteries are managed by this HW-882 3 A BMS for 2s lithium-ion battery pack
 Soldering the components on the PCB is a straight forward as everything is labelled. This is why I decided to skip the soldering part and focus on the wiring of the battery pack and XL4015 to the PCB.
 
 ## WIRING OF THE BATTERY PACK
-
+![Battery-Pack-Wiring](Battery-Pack-Wiring/Battery-Pack-Wiring.jpg)
 ### Note:
 Set the voltage and current on the XL4015 buck converter to 8.35 volts and 1.35 amps respectively before connecting it to the battery.
 
