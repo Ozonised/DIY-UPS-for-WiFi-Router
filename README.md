@@ -1,4 +1,5 @@
 # DIY-UPS-for-WiFi-Router
+![DIY_UPS_FOR_WIFI_ROUTER](/UPS_FOR_WIFI_ROUTER.jpg)
 A UPS for Wi-Fi routers and ONU with 4 hours of back-up.
 
 # SPECIFICATIONS
