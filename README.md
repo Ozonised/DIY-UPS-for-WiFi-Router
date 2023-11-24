@@ -72,3 +72,6 @@ The XL4015 module is powered by a 12V 2A adapter. If your 12V adapter is rated b
 | 12V 1A adapter | 1 |
 
 In additon to the items mentioned above, you will also need some other miscellaneous stuff like wires, etc.
+
+# CREDITS:
+I would like to take a moment to thank the YouTube channel [Open Green Energy](https://www.youtube.com/c/OpenGreenEnergy) for his video series on DIY UPS for WiFi Routers. They have been of huge help to me for the development of this project.
